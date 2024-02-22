@@ -1,0 +1,75 @@
+{
+  "Library" : [ {
+    "id" : 1,
+    "name" : "Starec a more",
+    "author" : "Ernest Hemingway",
+    "borrowed" : {
+      "FirstName" : "Peter",
+      "LastName" : "Prvý",
+      "From" : "25.3.2016"
+    }
+  }, {
+    "id" : 2,
+    "name" : "Rómeo a Júlia",
+    "author" : "William Shakespeare",
+    "borrowed" : {
+      "FirstName" : "Lukáš",
+      "LastName" : "Druhý",
+      "From" : "16.6.2018"
+    }
+  }, {
+    "id" : 3,
+    "name" : "Krvavé sonety",
+    "author" : "Pavol Országh Hviezdoslav",
+    "borrowed" : {
+      "FirstName" : "Matej",
+      "LastName" : "Tretí",
+      "From" : "1.2.2017"
+    }
+  }, {
+    "id" : 4,
+    "name" : "Hájniková žena",
+    "author" : "Pavol Országh Hviezdoslav",
+    "borrowed" : {
+      "FirstName" : "",
+      "LastName" : "",
+      "From" : ""
+    }
+  }, {
+    "id" : 5,
+    "name" : "Hamlet",
+    "author" : "William Shakespeare",
+    "borrowed" : {
+      "FirstName" : null,
+      "LastName" : null,
+      "From" : null
+    }
+  }, {
+    "id" : 6,
+    "name" : "Živý bič",
+    "author" : "Milo Urban",
+    "borrowed" : {
+      "FirstName" : "Igor",
+      "LastName" : "Matovic",
+      "From" : "07.01.2024"
+    }
+  }, {
+    "id" : 7,
+    "name" : "Hmlasdet",
+    "author" : "Willasre",
+    "borrowed" : {
+      "FirstName" : "",
+      "LastName" : "",
+      "From" : ""
+    }
+  }, {
+    "id" : 530,
+    "name" : "OperaHouse",
+    "author" : "Robert",
+    "borrowed" : {
+      "FirstName" : null,
+      "LastName" : null,
+      "From" : null
+    }
+  } ]
+}

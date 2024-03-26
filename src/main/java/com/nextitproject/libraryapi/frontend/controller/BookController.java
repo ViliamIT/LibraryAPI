@@ -20,7 +20,6 @@ public class BookController {
   @Autowired
   LibraryService libraryService;
 
-    //@CrossOrigin(origins = "*",allowedHeaders = "*")
     @GetMapping
     public List<Book> getAllBooks() {
         return libraryService.getAllBooks();

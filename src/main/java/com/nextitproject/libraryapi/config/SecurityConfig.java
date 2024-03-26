@@ -34,13 +34,11 @@ import static org.springframework.security.config.http.SessionCreationPolicy.STA
 //
 @Configuration
 @EnableWebSecurity
-////@EnableMethodSecurity
 public class SecurityConfig {
-//
+
     @Autowired
     private JwtAuthFilter authFilter;
-//
-//    // User Creation
+
     @Bean
     public UserDetailsService userDetailsService() {
         return new UserInfoService();
@@ -95,4 +93,3 @@ public class SecurityConfig {
 }
 
 }
-//

@@ -35,41 +35,5 @@
       "LastName" : "",
       "From" : ""
     }
-  }, {
-    "id" : 5,
-    "name" : "Hamlet",
-    "author" : "William Shakespeare",
-    "borrowed" : {
-      "FirstName" : null,
-      "LastName" : null,
-      "From" : null
-    }
-  }, {
-    "id" : 6,
-    "name" : "Živý bič",
-    "author" : "Milo Urban",
-    "borrowed" : {
-      "FirstName" : "Igor",
-      "LastName" : "Matovic",
-      "From" : "07.01.2024"
-    }
-  }, {
-    "id" : 7,
-    "name" : "Hmlasdet",
-    "author" : "Willasre",
-    "borrowed" : {
-      "FirstName" : "",
-      "LastName" : "",
-      "From" : ""
-    }
-  }, {
-    "id" : 530,
-    "name" : "OperaHouse",
-    "author" : "Robert",
-    "borrowed" : {
-      "FirstName" : null,
-      "LastName" : null,
-      "From" : null
-    }
   } ]
 }
